@@ -42,10 +42,10 @@
 
    ```
    - Clone esse repositório:
-   $ git clone https://github.com/rocketseat-education/nlw-06-flutter
+   $ git clone https://github.com/Mathvdias/Payflow_app.git
 
    - Entre no diretório:
-   $ cd nlw-06-flutter
+   $ cd Payflow_app
 
    - Instale as dependências:
    $ flutter pub get
